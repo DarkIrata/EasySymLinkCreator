@@ -1,7 +1,6 @@
 # EasySymLinkCreator
 Tool for SymLink creations in windows.
 Feel free to-do anything with it.
-It was a... what can i produce drunk project... :)
 
 
 Third-Party Informations
